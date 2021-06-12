@@ -23,4 +23,3 @@ function App() {
 }
 
 export default App;
-console.log(Adding this line just to push to github)
